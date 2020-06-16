@@ -1,0 +1,8 @@
+1.	Which subject does H like ?
+--> English
+	Since H studies in std VIII and students of std VIII like English
+
+2.  Which of the following groups of students study in Std VII ?
+--> EAF
+	Since G does not like biology. Hence he is in std VI
+	Therfore EAF remains which is the answer.

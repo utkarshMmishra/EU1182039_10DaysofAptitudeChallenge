@@ -1,0 +1,6 @@
+1.  He teaches grammar 
+--> Grammar is taught by him 
+
+2.  Do Not switch off the light
+--> None of the above
+    # correct - Let the light be switched on

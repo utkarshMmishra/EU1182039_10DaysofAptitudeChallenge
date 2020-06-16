@@ -1,0 +1,26 @@
+1.	For YEAR 2001
+	X=240,360,200,180,300
+	Y=200,300,180,150,260
+	Z=175,240,180,105,260
+
+	passedA = (175/200)*100 = 87.5%
+	passedB = (240/300)*100 = 80%
+	passedC = (180/180)*100 = 100%
+	passedD = (105/150)*100 = 70%
+	passedE = (240/260)*100 = 92.3%
+
+	In the year 2001, school D has the least passed percentage
+
+2.	For Year 2000
+	attendance = (250/300)*100 = 83.33%
+
+	For Year 2001
+	attendance = (300/360)*100 = 83.33%
+
+	For Year 2002
+	attendance = (370/400)*100 = 92.5%
+
+	For Year 2003
+	attendance = (400/500)*100 = 80%
+
+	For B the percentage of attendance was leat in 2003

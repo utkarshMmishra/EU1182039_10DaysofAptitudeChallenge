@@ -1,0 +1,5 @@
+1.  Hari said to Ram,"You gave me a book."
+--> He told you that you had given him a book.
+
+2.  "Good Morning, friends"
+--> He told his friends good morning.
