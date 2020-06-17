@@ -7,3 +7,6 @@ percentage=(problemsAnswered/problems)*100
 percentageRequired=75-percentage
 toAnswer=(percentageRequired/100)*80
 print("John must have attempted",int(toAnswer),"more question correctly.")
+
+
+# John must have attempted 5 more question correctly.

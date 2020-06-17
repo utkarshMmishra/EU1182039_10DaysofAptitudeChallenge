@@ -1,0 +1,5 @@
+1.  I've met two women, whom I believe where hospitable nurses.
+--> I've met two women, who I believe where hospitable nurses.
+
+2.  Most of the five-years plans of India have been successfull.
+--> plans of India

@@ -9,4 +9,6 @@ for i in num:
 	sum = sum+int(i)
 print("Sum :",sum)
 
+# The number is 301
+# Sum of its digit is 4
 

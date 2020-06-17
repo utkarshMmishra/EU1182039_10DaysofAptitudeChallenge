@@ -1,0 +1,11 @@
+some plants --> roots
+some roots --> branches
+all leaves --> branches
+
+The first 2 sentence concludes some plants are branches
+The 2nd sentence concludes some roots are branches
+Since all leaves are branches that means all branches are also leaves
+Hence some plants are leaves
+Since all leaves are branches hence no plant is a branch
+
+Hence the answer is all of above
