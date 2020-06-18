@@ -1,0 +1,9 @@
+1. He walks 20m in east and then after walking 20m in right he again walks
+   4m in left which is east direction. Hence he walked 24m in east       direction and 20m in south direction that forms a right angle triangle.
+   By Pythagoras theorem
+   dist = sqrt(20^2 + 24^2)
+        = sqrt(976)
+        = 4*sqrt(61)
+
+2. Shadow of ramesh was falling to his right in evening that is towards    west.
+   Since Ramesh and suresh were facing each other hence suresh was facing    north diretion.

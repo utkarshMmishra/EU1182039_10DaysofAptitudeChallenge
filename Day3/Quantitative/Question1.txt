@@ -1,0 +1,3 @@
+Required Money = P.W. of Rs.10028 due 9 months
+	       = [10028*100]/{100+[12*(9/12)]}
+	       = Rs.9200

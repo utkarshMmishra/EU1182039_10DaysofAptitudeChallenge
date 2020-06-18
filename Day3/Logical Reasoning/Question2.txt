@@ -1,0 +1,4 @@
+1. In 12 hours the hands of a clock are at right angles 22 times.
+   Therefore, In 3 days(72 hours) they are at right anle 132 times.
+
+2. February of leap year begins and ends on the same day of the week.
