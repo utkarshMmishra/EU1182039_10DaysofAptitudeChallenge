@@ -1,0 +1,18 @@
+1. Girls - 16.8 years
+   Boys - 17.9 years
+   Average - 17.4 years
+   Girls= 17.4-16.8 = 0.6
+   Boys= 17.9-17.4 = 0.5
+   Clearly boys : girls = 6:5
+
+2. Let the total distance = 1200km
+   hence 400km is travelled at speed of 25km/hr
+         300km is travelled at speed of 30km/hr and
+         500km is travelled at speed of 50km/hr
+
+   Total time taken = (400/25)+(300/30)+(500/50)
+		    = 36 hrs
+
+   Average speed = total distance/total time
+                 = 1200/36
+                 =33.5 km/hr

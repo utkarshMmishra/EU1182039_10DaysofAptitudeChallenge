@@ -1,0 +1,5 @@
+1.  Diva :: Opera
+--> Thespian :: Play
+
+2.  Ten :: Decimal
+--> Two :: Binary

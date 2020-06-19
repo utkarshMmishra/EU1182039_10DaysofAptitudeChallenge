@@ -1,0 +1,10 @@
+1. Let us assume that quantity of alcohol as 4x and quantity of water as 3x
+Since 5 litres of water are added
+Hence,
+4x/(3x+5)=4/5
+20x=12x+20
+x=2.5 litres
+
+The quantity of alcohol in given mixture is 4x = 4*2.5 = 10 litres
+
+2. Cannot be determined

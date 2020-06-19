@@ -1,0 +1,5 @@
+1.  It had been raining as he left the house.
+--> It has been raining since he left the house. 
+
+2.  As I was ill, so I did not go to college.
+--> I did not go to college because I was ill.
